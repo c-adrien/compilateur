@@ -1,0 +1,35 @@
+2 mot(s) réservé(s) pour les variables globales
+EMPI 0
+EMPI 10
+EMPI 23325
+EMPI 64635
+ADDI
+MULT
+AFFE
+ECRL
+ECRC 'V''a''l''e''u''r'' ''T''e''s''t'' ''='' ' FINC
+EMPI 0
+CONT
+ECRE
+ECRC 't''e''s''t'' ''e''c''r'' ''c''h''a''i''n''e' FINC
+ECRC 'V''a''l'' ''t''e''s''t''*''2'' ''=' FINC
+EMPI 2
+EMPI 0
+CONT
+MULT
+ECRE
+EMPI 4
+EMPI 0
+CONT
+MULT
+ECRE
+ECRC 'T''e''s''t'' ''c''h''a''i''n''e' FINC
+EMPI 1
+MOIN
+ECRE
+EMPI 2
+ECRE
+ECRC 't''e''s''t'' ''c''o''n''s''t'' ''='' ' FINC
+EMPI coucou
+ECRE
+STOP

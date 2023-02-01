@@ -1,0 +1,36 @@
+1 mot(s) réservé(s) pour les variables globales
+EMPI 0
+EMPI 4
+AFFE
+EMPI 0
+CONT
+ALSN 20
+EMPI boucle, i = 
+ECRE
+EMPI 0
+CONT
+ECRE
+EMPI 0
+EMPI 0
+CONT
+EMPI 1
+SOUS
+AFFE
+ALLE 5
+EMPI 0
+EMPI 5
+AFFE
+EMPI 0
+CONT
+ALSN 33
+EMPI condition, i = 
+ECRE
+EMPI 0
+CONT
+ECRE
+ECRC 'c''o''n''d''i''t''i''o''n'' ''s''a''t''i''s''f''a''i''t''e' FINC
+ALLE 35
+ECRC 'a''i''e' FINC
+ECRC 'a''i''e''a''i''e' FINC
+ECRC 'f''i''n' FINC
+STOP

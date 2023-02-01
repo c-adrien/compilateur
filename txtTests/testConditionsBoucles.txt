@@ -1,0 +1,27 @@
+PROGRAMME programmeCB;
+CONST boucle := 'boucle, i = ', condition := 'condition, i = ';
+VAR i;
+DEBUT
+    i := 4;
+
+    TANTQUE i FAIRE
+    DEBUT
+        ECRIRE(boucle, i);
+        i := i-1
+    FIN;
+
+    i := 5;
+
+    SI i ALORS
+    DEBUT
+        ECRIRE(condition, i);
+        ECRIRE('condition satisfaite')
+    FIN
+    SINON
+        DEBUT
+            ECRIRE('aie');
+            ECRIRE('aieaie')
+        FIN;
+
+    ECRIRE('fin')
+FIN.

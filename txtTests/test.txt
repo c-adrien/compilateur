@@ -1,0 +1,12 @@
+PROGRAMME programmeTest;
+CONST myChaine := 'coucou', myChaine2 := 'non';
+VAR test, test2 {, test};
+DEBUT
+    test := 10*23325+64635; {azerty}
+    {LIRE(test, test2);}
+    ECRIRE();
+    ECRIRE('Valeur Test = ', test);
+    ECRIRE('test ecr chaine', 'Val test*2 =', 2*test);
+    ECRIRE(4*test, 'Test chaine', -1, (2));
+    ECRIRE('test const = ', myChaine)
+FIN.

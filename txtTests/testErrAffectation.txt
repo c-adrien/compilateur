@@ -1,0 +1,6 @@
+PROGRAMME programmeTest;
+CONST myChaine := 'coucou' {, myChaine := 'non'};
+VAR test {, test};
+DEBUT
+    testNonDecl := (10*23325)+64635; {azerty}
+FIN.
